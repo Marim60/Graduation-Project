@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MariamFCAI\\1-FourthYear\\Graduation project\\Implementation\\Note-Mood\\Note-Mood\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFD7536-B0A4-4236-8759-792A22EDE675}|NoteMoodAPI\\NoteMoodAPI.csproj|d:\\mariamfcai\\1-fourthyear\\graduation project\\implementation\\note-mood\\note-mood\\backend\\notemoodapi\\controllers\\entrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFD7536-B0A4-4236-8759-792A22EDE675}|NoteMoodAPI\\NoteMoodAPI.csproj|solutionrelative:notemoodapi\\controllers\\entrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81671AD9-6641-401B-8200-5A13EAB2EB0F}|NoteMoodUOW.EF\\NoteMoodUOW.EF.csproj|d:\\mariamfcai\\1-fourthyear\\graduation project\\implementation\\note-mood\\note-mood\\backend\\notemooduow.ef\\repositories\\machineapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81671AD9-6641-401B-8200-5A13EAB2EB0F}|NoteMoodUOW.EF\\NoteMoodUOW.EF.csproj|solutionrelative:notemooduow.ef\\repositories\\machineapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81671AD9-6641-401B-8200-5A13EAB2EB0F}|NoteMoodUOW.EF\\NoteMoodUOW.EF.csproj|d:\\mariamfcai\\1-fourthyear\\graduation project\\implementation\\note-mood\\note-mood\\backend\\notemooduow.ef\\repositories\\entryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81671AD9-6641-401B-8200-5A13EAB2EB0F}|NoteMoodUOW.EF\\NoteMoodUOW.EF.csproj|solutionrelative:notemooduow.ef\\repositories\\entryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./NoteMoodDB/True/SqlTable/dbo.Entries.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC69C65-A226-4E8D-A668-7632C699FD80}|NoteMoodUOW.Core\\NoteMoodUOW.Core.csproj|d:\\mariamfcai\\1-fourthyear\\graduation project\\implementation\\note-mood\\note-mood\\backend\\notemooduow.core\\interfaces\\idailysentimentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC69C65-A226-4E8D-A668-7632C699FD80}|NoteMoodUOW.Core\\NoteMoodUOW.Core.csproj|solutionrelative:notemooduow.core\\interfaces\\idailysentimentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 622,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MachineAPI.cs",
+              "DocumentMoniker": "D:\\MariamFCAI\\1-FourthYear\\Graduation project\\Implementation\\Note-Mood\\Note-Mood\\Backend\\NoteMoodUOW.EF\\Repositories\\MachineAPI.cs",
+              "RelativeDocumentMoniker": "NoteMoodUOW.EF\\Repositories\\MachineAPI.cs",
+              "ToolTip": "D:\\MariamFCAI\\1-FourthYear\\Graduation project\\Implementation\\Note-Mood\\Note-Mood\\Backend\\NoteMoodUOW.EF\\Repositories\\MachineAPI.cs",
+              "RelativeToolTip": "NoteMoodUOW.EF\\Repositories\\MachineAPI.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwFIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:36:11.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntryRepository.cs",
+              "DocumentMoniker": "D:\\MariamFCAI\\1-FourthYear\\Graduation project\\Implementation\\Note-Mood\\Note-Mood\\Backend\\NoteMoodUOW.EF\\Repositories\\EntryRepository.cs",
+              "RelativeDocumentMoniker": "NoteMoodUOW.EF\\Repositories\\EntryRepository.cs",
+              "ToolTip": "D:\\MariamFCAI\\1-FourthYear\\Graduation project\\Implementation\\Note-Mood\\Note-Mood\\Backend\\NoteMoodUOW.EF\\Repositories\\EntryRepository.cs",
+              "RelativeToolTip": "NoteMoodUOW.EF\\Repositories\\EntryRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:35:50.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Entries [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./NoteMoodDB/True/SqlTable/dbo.Entries.sql",
+              "ToolTip": "dbo.Entries [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-07T01:40:18.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntryController.cs",
+              "DocumentMoniker": "D:\\MariamFCAI\\1-FourthYear\\Graduation project\\Implementation\\Note-Mood\\Note-Mood\\Backend\\NoteMoodAPI\\Controllers\\EntryController.cs",
+              "RelativeDocumentMoniker": "NoteMoodAPI\\Controllers\\EntryController.cs",
+              "ToolTip": "D:\\MariamFCAI\\1-FourthYear\\Graduation project\\Implementation\\Note-Mood\\Note-Mood\\Backend\\NoteMoodAPI\\Controllers\\EntryController.cs",
+              "RelativeToolTip": "NoteMoodAPI\\Controllers\\EntryController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwE4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:37:11.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDailySentimentService.cs",
+              "DocumentMoniker": "D:\\MariamFCAI\\1-FourthYear\\Graduation project\\Implementation\\Note-Mood\\Note-Mood\\Backend\\NoteMoodUOW.Core\\Interfaces\\IDailySentimentService.cs",
+              "RelativeDocumentMoniker": "NoteMoodUOW.Core\\Interfaces\\IDailySentimentService.cs",
+              "ToolTip": "D:\\MariamFCAI\\1-FourthYear\\Graduation project\\Implementation\\Note-Mood\\Note-Mood\\Backend\\NoteMoodUOW.Core\\Interfaces\\IDailySentimentService.cs",
+              "RelativeToolTip": "NoteMoodUOW.Core\\Interfaces\\IDailySentimentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:36:35.875Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 31,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

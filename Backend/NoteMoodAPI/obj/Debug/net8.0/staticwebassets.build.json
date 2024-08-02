@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "pgglnv/L3gHaTFq/ZeG9bKH9JiD85RbyDJ7O7fdCasQ=",
+  "Source": "NoteMoodAPI",
+  "BasePath": "_content/NoteMoodAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NoteMoodAPI\\wwwroot",
+      "Source": "NoteMoodAPI",
+      "ContentRoot": "D:\\MariamFCAI\\1-FourthYear\\Graduation project\\Implementation\\Note-Mood\\Note-Mood\\Backend\\NoteMoodAPI\\wwwroot\\",
+      "BasePath": "_content/NoteMoodAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

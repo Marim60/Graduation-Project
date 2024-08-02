@@ -1,0 +1,13 @@
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\bin\Debug\net8.0\NoteMoodUOW.Core.deps.json
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\bin\Debug\net8.0\NoteMoodUOW.Core.dll
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\bin\Debug\net8.0\NoteMoodUOW.Core.pdb
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\obj\Debug\net8.0\NoteMoodUOW.Core.csproj.AssemblyReference.cache
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\obj\Debug\net8.0\NoteMoodUOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\obj\Debug\net8.0\NoteMoodUOW.Core.AssemblyInfoInputs.cache
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\obj\Debug\net8.0\NoteMoodUOW.Core.AssemblyInfo.cs
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\obj\Debug\net8.0\NoteMoodUOW.Core.csproj.CoreCompileInputs.cache
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\obj\Debug\net8.0\NoteMoodUOW.Core.sourcelink.json
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\obj\Debug\net8.0\NoteMoodUOW.Core.dll
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\obj\Debug\net8.0\refint\NoteMoodUOW.Core.dll
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\obj\Debug\net8.0\NoteMoodUOW.Core.pdb
+D:\MariamFCAI\1-FourthYear\Graduation project\Implementation\Note-Mood\Note-Mood\Backend\NoteMoodUOW.Core\obj\Debug\net8.0\ref\NoteMoodUOW.Core.dll
